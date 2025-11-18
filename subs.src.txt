@@ -1,1 +1,2 @@
 vless://9f4856d6-5db5-47ff-81c4-0b1b874049ae@5.223.48.212:443?security=reality&encryption=none&pbk=BhAdKyPCOldX8K2jGGkrHTnEm8In8jOtAsb4LcqV-Ag&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pikabu.ru#vless
+vless://72a58477-9778-4686-8c5b-095eb2853367@193.124.206.158:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=www.microsoft.com&sid=&pbk=7jOeWXH7Bj39i2C15eFYCgoKoRuEt2We_0tEioUx4As#6b6dbd3e-0389-4693-b8e5-aa7cd95a4cca@papervpn.io&prefix=%16%03%01%00%C2%A8%01%01#PaperVPN_NL
