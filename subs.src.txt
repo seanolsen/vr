@@ -1,1 +1,1 @@
-vless://9eb7c988-8ba1-41fa-a8d3-c28c3841b26e@213.182.202.19:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=web.max.ru&sid=&pbk=LIDVuPQmmZYAVGolPXQ4LRHkiHeNBVYjMzkrYJ1XHUg#40767fb9-d16f-4cd4-bc14-f48de3f6a292@papervpn.io&prefix=%16%03%01%00%C2%A8%01%01
+vless://e25588c8-7000-4a66-8a90-4ee0b0527499@213.182.202.166:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=api.dropbox.com&sid=&pbk=YhfdlwmWWnh0J4HlvF9w9bftwCGquhHZJ8aDY3IVnzQ#f0329d55-f020-45a7-b01d-652fcea77c51@papervpn.io&prefix=%16%03%01%00%C2%A8%01%01
