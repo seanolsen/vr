@@ -1,2 +1,2 @@
-vless://05d1317b-c946-494f-b136-0095c7d26843@rutube.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&packetEncoding=xudp&sni=rutube.ru&fp=chrome&security=reality&pbk=Fao6kKv7GNmQyoHqWYEvLJ6H17-0g0pXiPYETUD1sUQ&sid=d501bc5cbd54fbf7#kz
+vless://77ffe85e-fe86-4ffc-8e6a-a8b1dd0b8c71@83.97.77.53:443?security=reality&type=tcp&headerType=&path=&host=&sni=xn--80avd1a.xn--p1ai&fp=chrome&pbk=hsWb50t_Zs-FZS5-jv6AZlH7xKsStXK3hW_JCasyEUs&sid=fef8aa319d0b0500#%F0%9F%9A%80%20Marz%20%28ussb%29%20%5BVLESS%20-%20tcp%5D
 vless://686e610b-a618-4067-a9ed-56691fc4c495@103.106.3.87:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=api.dropbox.com&sid=&pbk=cwM-6vzqtTGCzpCgd9jDafAc9kj0w_3bcai7OuDy1lc#91d41ef9-cdfd-4f2d-829f-816dade3dc61@papervpn.io
