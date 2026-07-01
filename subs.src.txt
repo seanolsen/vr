@@ -1,2 +1,1 @@
-vless://3764f6d0-4cc8-4fdd-a486-59f5eb9d9cfa@fra.ascl.dev:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fra.ascl.dev&fp=firefox&pbk=azEbNlmbnPlZTorttNybSEARr0XtnhQEKIkZEZPqMSs
 vless://3764f6d0-4cc8-4fdd-a486-59f5eb9d9cfa@ist.ascella.network:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ist.ascella.network&fp=firefox&pbk=y8zu3te3MMaqdsQs8XlACT_IRcIBoenmGYnMaS-ZbX4&sid=fc7aa00fc02c
